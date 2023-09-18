@@ -29,6 +29,7 @@
 | **Version** | **Fecha** | **Autor** |   **Descripcion de modificacion**   |
 |----------|----------|----------|----------|
 | 0.1   | 22/08/23 | LogicVerse | Se agrego el primer capitulo al trabajo  |
+ 0.2   | 22/08/23 | LogicVerse | Se agrego el segundo capitulo al trabajo  |
 
 ## Project Report Collaboration Insights 
 
